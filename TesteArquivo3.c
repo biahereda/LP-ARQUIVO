@@ -14,7 +14,5 @@ int main(void)
 
 
   fclose(pont_arq);
-
-  getch();
   return(0);
 }
